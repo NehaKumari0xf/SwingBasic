@@ -1,0 +1,7 @@
+Student Name: Neha
+Father's Name: xxx
+Gender: Female
+	Marks of 5 subject
+English: 76, Hindi: 76, Maths: 76, Science: 76 and S.ST: 76
+-------------------------------x---------------------------------
+
